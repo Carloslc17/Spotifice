@@ -1,0 +1,11 @@
+{
+"user": {
+    "fullname": "user",
+    "email": "user@example.com",
+    "is_premium": false,
+    "created_at": "2025-01-01T00:00:00Z",
+    "salt": "1239459d33341643",
+    "digest": "e749c418e1ccbf65c090c5c7859647b8"
+ }
+
+}
